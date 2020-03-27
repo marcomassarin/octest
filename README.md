@@ -1,0 +1,2 @@
+# octest
+Openshift course test
